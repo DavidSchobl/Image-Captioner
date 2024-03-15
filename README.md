@@ -9,8 +9,7 @@ git clone https://github.com/DavidSchobl/Image-Captioner/
 cd Image-Captioner
 setup.bat
 ```
-- After the repository is cloned, run **setup.bat**, which will install all necessary files.
-- Start **run.bat** - it will open UI for you and you are free to add captions to your images!
+- Start ```run.bat``` - it will open UI for you and you are free to add captions to your images!
 
 # Usage:
 - First, open the folder containing your source images, Image Captioner will then open the first image in the folder.
