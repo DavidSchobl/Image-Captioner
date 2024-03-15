@@ -8,10 +8,10 @@ _(you need to have python and git installed)_
 - Start **run.bat** and enjoy!
 
 # Usage:
-First, open the folder containing your source images, Image Captioner will then open the first image in the folder.
-It automatically creates .txt file next to each image file.
-You just click previous or next and edit captions.
-When .txt files already exist, it will load existent content (for eg. if you used BLIP to caption your images automatically)
+- First, open the folder containing your source images, Image Captioner will then open the first image in the folder.
+- After that you just click next or previous and edit the captions captions. It automatically creates .txt file next to each image file.
+- When .txt files already exist, it will load existent content (for eg. if you used BLIP to caption your images automatically).
+- If you want, you can press **BLIP IT!** and caption will be generated automatically for you. 
 
 I wanted to make my life easier while training LoRAs or another checkpoint for Stable Diffusion, maybe someone will find this useful as well.
 
