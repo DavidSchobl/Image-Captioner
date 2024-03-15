@@ -1,14 +1,13 @@
-
 @echo off
 echo Creating virtual environment...
 python -m venv venv
 echo Virtual environment created.
 
 echo Activating virtual environment...
-.env\Scriptsctivate
+call .\venv\Scripts\activate
 
-echo Installing required libraries...
-pip install -r requirements.txt
-echo Installation completed.
+echo Installing required libraries from requirements.txt...
+pip install -r requirements_updated.txt
+echo All required libraries were successfully installed.
 
 pause
