@@ -1,6 +1,12 @@
 # Image-Captioner
 This is a very simple app that is useful for quickly editing image captions one by one.
 
+# Installation:
+open cmd and run: **git clone https://github.com/DavidSchobl/Image-Captioner/**
+After the repository is cloned, run **setup.bat**, which will install all necessary files.
+Start **run.bat** and enjoy!
+
+# Usage:
 First, open the folder containing your source images, Image Captioner will then open the first image in the folder.
 It automatically creates .txt file next to each image file.
 You just click previous or next and edit captions.
