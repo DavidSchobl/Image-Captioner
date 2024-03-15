@@ -1,5 +1,5 @@
 # Image-Captioner
-This is a very simple app that is useful for quickly editing image captions one by one, maybe I will make some updates later if you let me know, what you would like.
+This is a very simple app that is useful for quickly editing image captions one by one.
 
 First, open the folder containing your source images, Image Captioner will then open the first image in the folder.
 It automatically creates .txt file next to each image file.
@@ -11,3 +11,5 @@ I wanted to make my life easier while training LoRAs or another checkpoint for S
 It is easy to compile this app for win users using PyInstaller.
 
 Enjoy!
+
+PS: Maybe I will make some updates later if you let me know, what you would like in the app.
