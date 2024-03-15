@@ -3,7 +3,7 @@ This is a very simple app that is useful for quickly editing image captions one 
 
 # Windows Installation:
 _(you need to have python and git installed)_
-- open cmd and run: **git clone https://github.com/DavidSchobl/Image-Captioner/**
+- open cmd and run: 'git clone https://github.com/DavidSchobl/Image-Captioner/'
 - After the repository is cloned, run **setup.bat**, which will install all necessary files.
 - Start **run.bat** - it will open UI for you and you are free to add captions to your images!
 
