@@ -7,7 +7,7 @@ echo Activating virtual environment...
 call .\venv\Scripts\activate
 
 echo Installing required libraries from requirements.txt...
-pip install -r requirements_updated.txt
+pip install -r requirements.txt
 echo All required libraries were successfully installed.
 
 pause
